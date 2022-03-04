@@ -1,0 +1,17 @@
+man - look at linux manual
+ls - list files in directory
+pwd - list current working directory
+cd - change directory
+cd .. - to go up a directory
+cd ~ - takes you to your home directory
+clear - clear
+history - Shows past commands
+touch - make a file
+vi - hacker text editor
+nano - baby text editor
+ctrl+C - panic button
+cat - print whats in the file
+mv <filename> <location>
+cp <filename> <newfilename>
+sudo - super user
+chmod +x <filename> - change permission
